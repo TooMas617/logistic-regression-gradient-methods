@@ -1,0 +1,5 @@
+# File di Jupyter e di sistema
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
